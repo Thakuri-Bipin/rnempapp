@@ -1,0 +1,8 @@
+expo init {proj_name} --npm
+
+server Directory
+-> nodemon app.js
+
+root directory
+-> ngrok http 3000
+-> npm run android
